@@ -1,4 +1,4 @@
-# Merge Short Ödevi
+# Merge Sort Ödevi
 1.  
 
     [16,21,11,8,12,22]
